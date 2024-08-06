@@ -13,7 +13,7 @@ const gui = new GUI()
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
 
-// Scene
+// Scene 
 const scene = new THREE.Scene()
 
 /**
